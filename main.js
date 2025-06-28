@@ -4,6 +4,9 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+// Add hidden class to modal to make it hidden by default
+const modal = document.querySelector('#modal');
+modal.classList.add('hidden');
 
 
 
